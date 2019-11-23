@@ -2,7 +2,8 @@ title: Yizheng's Blog
 author: Yizheng Huang
 email: huangyz0918@gmail.com
 description: Hard work always pays off.
-url: "http://blog.huangyz.name/" 
+#url: "http://blog.huangyz.name/" 
+url: "https://lesliekuo.github.io/personal-page-blog/"
 
 # Build settings
 remote_theme: huangyz0918/moving
